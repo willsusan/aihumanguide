@@ -186,7 +186,7 @@ AI数字人学习指南，用ChatGPT学习AI领域知识
     - 参考资料：[The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://arxiv.org/abs/1802.07228)
 
 ## 联系方式
-如有问题或建议，请联系[你的联系方式或GitHub用户名]。
+如有问题或建议，请联系npsyche@126.com。
 
 ---
 
